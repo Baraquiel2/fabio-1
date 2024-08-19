@@ -1,0 +1,72 @@
+body{
+    background: rgb(110,15,15);
+    background: linear-gradient(90deg, rgba(110,15,15,1) 11%, rgba(194,60,60,1) 62%, rgba(147,45,45,1) 76%, rgba(131,14,14,1) 95%);
+}
+
+ul{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 250px;
+}
+.titulo{
+    font-size: 50px;
+    color: #ffffff;
+   
+  }
+
+.home2{
+    color:rgba(255, 255, 255, 0.918);
+}
+
+.sobre{
+    color:rgba(255, 255, 255, 0.918);
+}
+
+.foto{
+    color: rgba(255, 255, 255, 0.918);
+}
+
+.contato{
+    color:rgba(255, 255, 255, 0.918);
+}
+
+.text{
+    color: #d8d6d6 ;
+    font-size: 28px;
+}
+
+.text2{
+    font-size: 28px;
+    color: #d8d6d6 ;
+}
+
+button{
+    position: absolute;
+    left: 70%;
+    width: 100px;
+    height: 38px;
+    border-radius: 5px;
+    background-color: rgb(188, 188, 188);
+}
+
+.text3{
+    color: #d8d6d6 ;
+    font-size: 26px;
+}
+
+.historinha{
+    color: #ffffff;
+}
+
+img{
+    border-radius: 10px;
+    width: 743px;
+    height: 420px;
+}
+
+.mae{
+    display: flex;
+    gap:20px;
+}
+

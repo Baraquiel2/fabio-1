@@ -1,0 +1,69 @@
+body{
+    background: rgb(110,15,15);
+    background: linear-gradient(90deg, rgba(110,15,15,1) 11%, rgba(194,60,60,1) 62%, rgba(147,45,45,1) 76%, rgba(131,14,14,1) 95%);
+}
+
+ul{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 250px;
+}
+h1 {
+    font-size: 50px;
+    color: hsl(0, 0%, 100%);
+   
+  }
+
+.home2{
+    color:rgba(255, 255, 255, 0.918);
+}
+
+.sobre{
+    color:rgba(255, 255, 255, 0.918);
+}
+
+.foto{
+    color: rgba(255, 255, 255, 0.918);
+}
+
+.contato{
+    color:rgba(255, 255, 255, 0.918);
+}
+
+form{
+    color: white;
+    font-size: 26px;
+    margin-top: 80px;
+
+}
+
+input{
+    width: 700px;
+    height: 30px;
+    gap: 20px;
+}
+
+.nome{
+    margin-right: 619px;
+}
+
+.sob{
+    margin-right: 568px;
+}
+
+.tel{
+    margin-right: 595px;
+}
+
+.end{
+    margin-right: 586px;
+}
+
+button{
+    width: 80px;
+    height: 25px;
+    margin-left: 628px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
